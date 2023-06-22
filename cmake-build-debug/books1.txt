@@ -1,0 +1,10 @@
+9
+1	test book	test author	0	1
+2	how to program in c++	some guy	0	1
+3	Eiti chronicles	student unknown	0	1
+4	how to program in c	me	0	1
+5	how to program in c++	some guy	0	0
+6	Eiti chronicles	student unknown	0	1
+6	how to program in c	me	0	1
+7	how to program in c++	some guy	1	1
+8	Eiti chronicles	student unknown	0	1
